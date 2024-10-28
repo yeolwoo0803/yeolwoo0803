@@ -6,9 +6,6 @@
 </div>
 <br>
 
-<a href="https://github.com/yeolwoo0803/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeolwoo0803&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
 
 <h3 align="center">📞 Contact 📞</h3>  
 <p align="center">
@@ -36,6 +33,10 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>&nbsp 
 </p>
+
+<a href="https://github.com/yeolwoo0803/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeolwoo0803&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 <!--
 **yeolwoo0803/yeolwoo0803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
